@@ -50,7 +50,7 @@ Cite our paper by
 }
 ```
 
-![figs/Overview.png](https://github.com/ma-compbio/Higashi/blob/main/figs/higashi_title.png)
+![figs/graphAbstract.jpg](https://github.com/jsun9003/scCARE-seq/blob/main/figs/graphAbstract.jpg)
 
 
 
