@@ -1,6 +1,5 @@
 
 # scCARE-seq: a single-cell multimodal omics method for simultaneously detecting chromatin architecture and mRNA expression by sequencing
-<img src="https://github.com/ma-compbio/Higashi/blob/main/figs/logo2.png" align="right" alt="logo" width="290">
 
 As a computational framework for scHi-C analysis, Higashi has the following features:
 
