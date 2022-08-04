@@ -7,17 +7,28 @@ Three-dimensional (3D) chromatin structure plays a crucial role in development a
 
 ![figs/overview.jpg](https://github.com/jsun9003/scCARE-seq/blob/main/figs/overview.jpg)
 
-# Installation
+# Preprocessing of scCARE-seq datasets
 
-We now have Higashi on conda.
+#### Please have the following softwares installed first:
+- bowtie2, http://bowtie-bio.sourceforge.net/bowtie2/index.shtml
+- samtools, http://www.htslib.org/
+   samtools version >= 1.3.1 is required.
+- Trim_galore, https://www.bioinformatics.babraham.ac.uk/projects/trim_galore/
+- STAR, https://github.com/alexdobin/STAR
+- Higashi, https://github.com/ma-compbio/Higashi
+- sci-CAR, https://github.com/JunyueC/sci-CAR_analysis
 
-`conda install -c ruochiz higashi`
+- Optional: FastQC, https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
 
-It is recommended to have pytorch installed (with CUDA support when applicable) before installing higashi.
-
-# Tutorial
+# Additionally Tutorial
 - [Higashi-analysis for HiC (Zhang et al.Nature biotechnology, 2022)](https://github.com/ma-compbio/Higashi)
 - [sci-CAR_analysis for RNA (Cao et al.Science, 2018)](https://github.com/JunyueC/sci-CAR_analysis)
+
+#### Split scCARE-seq data into HiC partion and RNA partion
+
+#### Single cell HiC analysis for the HiC partion
+
+#### Single cell RNA-seq analysis for the RNA partion
 
 # Cite
 
