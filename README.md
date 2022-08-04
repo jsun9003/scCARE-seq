@@ -38,7 +38,7 @@ Higashi is constantly being updated, see [change log](https://github.com/ma-comp
 Cite our paper by
 
 ```
-@article {Zhang2020multiscale,
+@article {Qu2022multiscale,
 	author = {Jiale Qu and Jun Sun},
 	title = {Simultaneous profiling of chromatin architecture and transcription in single cells},
 	year={2022},
