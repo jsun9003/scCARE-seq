@@ -1,8 +1,6 @@
 
 # scCARE-seq: a single-cell multimodal omics method for simultaneously detecting chromatin architecture and mRNA expression by sequencing
 
-As a computational framework for scHi-C analysis, Higashi has the following features:
-
 Three-dimensional (3D) chromatin structure plays a crucial role in development and diseases, and these biological processes are associated with transcription. However, heterogeneity was exhibited in both single-cell chromatin architecture and transcription, thus the regulatory relationship between 3D chromatin structure and gene expression is difficult to interpret based on population methods. Here we developed a single-cell multimodal omics method for simultaneously detecting chromatin architecture and mRNA expression by sequencing (scCARE-seq). Applying scCARE-seq to examine chromatin architecture and transcriptome from naïve to primed single mouse embryonic stem cells (mESCs), we observed the coactivation between 3D chromatin structure and expression in the cell fate transition. In addition, we defined cell cycle phase of each cell through chromatin architecture, and found that 3D chromatin structure periodic changes were in parallel with transcription during the cell cycle. These findings indicate that scCARE-seq enables comprehensive analysis of chromatin architecture and transcription in the same single cell.
 
 --------------------------
