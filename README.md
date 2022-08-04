@@ -1,9 +1,6 @@
 
-# Higashi: Multiscale and integrative scHi-C analysis
-<img src="https://github.com/ma-compbio/Higashi/blob/main/figs/logo2.png" align="right"
-     alt="logo" width="290">
-
-https://doi.org/10.1038/s41587-021-01034-y
+# scCARE-seq: a single-cell multimodal omics method for simultaneously detecting chromatin architecture and mRNA expression by sequencing
+<img src="https://github.com/ma-compbio/Higashi/blob/main/figs/logo2.png" align="right" alt="logo" width="290">
 
 As a computational framework for scHi-C analysis, Higashi has the following features:
 
@@ -33,8 +30,8 @@ Please see [the wiki](https://github.com/ma-compbio/Higashi/wiki) for extensive 
 Higashi is constantly being updated, see [change log](https://github.com/ma-compbio/Higashi/wiki/Change-Log) for the updating history
 
 # Tutorial
-- [4DN sci-Hi-C (Kim et al.)](https://github.com/ma-compbio/Higashi/blob/main/tutorials/4DN_sci-Hi-C_Kim%20et%20al.ipynb)
-- [Ramani et al.](https://github.com/ma-compbio/Higashi/blob/main/tutorials/Ramani%20et%20al.ipynb)
+- [Higashi-analysis for HiC (Zhang et al.Nature biotechnology, 2022)](https://github.com/ma-compbio/Higashi)
+- [sci-CAR_analysis for RNA (Cao et al.Science, 2018)](https://github.com/JunyueC/sci-CAR_analysis)
 
 # Cite
 
@@ -42,11 +39,11 @@ Cite our paper by
 
 ```
 @article {Zhang2020multiscale,
-	author = {Zhang, Ruochi and Zhou, Tianming and Ma, Jian},
-	title = {Multiscale and integrative single-cell Hi-C analysis with Higashi},
-	year={2021},
+	author = {Jiale Qu and Jun Sun},
+	title = {Simultaneous profiling of chromatin architecture and transcription in single cells},
+	year={2022},
 	publisher = {Nature Publishing Group},
-	journal = {Nature biotechnology}
+	journal = {Under Submited}
 }
 ```
 
@@ -56,4 +53,4 @@ Cite our paper by
 
 # Contact
 
-Please contact ruochiz@andrew.cmu.edu or raise an issue in the github repo with any questions about installation or usage. 
+Please contact o.sj@live.com or raise an issue in the github repo with any questions about installation or usage. 
