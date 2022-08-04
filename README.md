@@ -15,11 +15,6 @@ We now have Higashi on conda.
 
 It is recommended to have pytorch installed (with CUDA support when applicable) before installing higashi.
 
-# Documentation
-Please see [the wiki](https://github.com/ma-compbio/Higashi/wiki) for extensive documentation and example tutorials.
-
-Higashi is constantly being updated, see [change log](https://github.com/ma-compbio/Higashi/wiki/Change-Log) for the updating history
-
 # Tutorial
 - [Higashi-analysis for HiC (Zhang et al.Nature biotechnology, 2022)](https://github.com/ma-compbio/Higashi)
 - [sci-CAR_analysis for RNA (Cao et al.Science, 2018)](https://github.com/JunyueC/sci-CAR_analysis)
