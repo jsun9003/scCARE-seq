@@ -3,13 +3,7 @@
 
 As a computational framework for scHi-C analysis, Higashi has the following features:
 
--  Higashi represents the scHi-C dataset as a **hypergraph**
-     - Each cell and each genomic bin are represented as the cell node and the genomic bin node.
-     - Each non-zero entry in the single-cell contact map is modeled as a hyperedge. 
-     - The read count for each chromatin interaction is used as the attribute of the hyperedge. 
-- Higashi uses a **hypergraph neural network** to unveil high-order interaction patterns within this constructed hypergraph.
-- Higashi can produce the **embeddings** for the scHi-C for downstream analysis.
--  Higashi can **impute single-cell Hi-C contact maps**, enabling detailed characterization of 3D genome features such as **TAD-like domain boundaries** and **A/B compartment scores** at single-cell resolution.
+Three-dimensional (3D) chromatin structure plays a crucial role in development and diseases, and these biological processes are associated with transcription. However, heterogeneity was exhibited in both single-cell chromatin architecture and transcription, thus the regulatory relationship between 3D chromatin structure and gene expression is difficult to interpret based on population methods. Here we developed a single-cell multimodal omics method for simultaneously detecting chromatin architecture and mRNA expression by sequencing (scCARE-seq). Applying scCARE-seq to examine chromatin architecture and transcriptome from naïve to primed single mouse embryonic stem cells (mESCs), we observed the coactivation between 3D chromatin structure and expression in the cell fate transition. In addition, we defined cell cycle phase of each cell through chromatin architecture, and found that 3D chromatin structure periodic changes were in parallel with transcription during the cell cycle. These findings indicate that scCARE-seq enables comprehensive analysis of chromatin architecture and transcription in the same single cell.
 
 --------------------------
 
