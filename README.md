@@ -20,15 +20,16 @@ Three-dimensional (3D) chromatin structure plays a crucial role in development a
 
 - Optional: FastQC, https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
 
-# Additionally Tutorial
+# Additional Tutorial
 - [Higashi-analysis for HiC (Zhang et al.Nature biotechnology, 2022)](https://github.com/ma-compbio/Higashi)
 - [sci-CAR_analysis for RNA (Cao et al.Science, 2018)](https://github.com/JunyueC/sci-CAR_analysis)
 
-#### Split scCARE-seq data into HiC partion and RNA partion
+#### Analysis of scCARE-seq datasets include the following steps:
+## 1. Split scCARE-seq data into HiC partion and RNA partion
 
-#### Single cell HiC analysis for the HiC partion
+## 2. Single cell HiC analysis for the HiC partion
 
-#### Single cell RNA-seq analysis for the RNA partion
+## 3. Single cell RNA-seq analysis for the RNA partion
 
 # Cite
 
