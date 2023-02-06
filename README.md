@@ -20,8 +20,7 @@ Three-dimensional (3D) chromatin structure plays a crucial role in development a
 - Higashi, https://github.com/ma-compbio/Higashi
 - DeepLoop, https://github.com/JinLabBioinfo/DeepLoop
 - Optional: FastQC, https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
-
-	    HiCExplorer, https://hicexplorer.readthedocs.io/en/latest/
+-           HiCExplorer, https://hicexplorer.readthedocs.io/en/latest/
 
 # Additional Tutorial
 - [Higashi-analysis for HiC (Zhang et al. Nature biotechnology, 2022)](https://github.com/ma-compbio/Higashi)
