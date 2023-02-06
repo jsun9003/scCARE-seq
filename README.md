@@ -29,9 +29,9 @@ Three-dimensional (3D) chromatin structure plays a crucial role in development a
 
 ## 2. Single cell HiC analysis for the HiC partion
 ### TrimGalore
-`mkdir QualityControl`
-`cd QualityControl`
-`trim_galore.py -i ../rawdata/*.gz 1>Hi-C.txt 2>Hi-C.log -o Clean &`
+`mkdir QualityControl
+cd QualityControl
+trim_galore.py -i ../rawdata/*.gz 1>Hi-C.txt 2>Hi-C.log -o Clean &`
 
 ### Prepare for HiC-Pro
 `cd ../`
