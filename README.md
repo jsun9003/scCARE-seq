@@ -17,6 +17,8 @@ Three-dimensional (3D) chromatin structure plays a crucial role in development a
 - STAR, https://github.com/alexdobin/STAR
 - Higashi, https://github.com/ma-compbio/Higashi
 - sci-CAR, https://github.com/JunyueC/sci-CAR_analysis
+- DeepLoop https://github.com/JinLabBioinfo/DeepLoop
+- HiC-Pro https://github.com/nservant/HiC-Pro
 
 - Optional: FastQC, https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
 
