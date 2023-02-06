@@ -59,6 +59,10 @@ Three-dimensional (3D) chromatin structure plays a crucial role in development a
 
 `HiC-Pro -i ../data/ -o HiC-Pro-Test -c /data1/jlqu/mboi-mm10-config-scCARE-seq.txt 1>Hi-C-pro-test.txt 2>Hi-C-pro-test.log`
 
+#result summary of HiC-pro
+
+`perl Processing_Hi-C/hicpro_summary_trans.pl HiC-Pro-Test > serum_H_132_summary.txt`
+
 ## 2. Single cell RNA-seq analysis for the RNA partion
 
 `sh ./Processing_RNA/record_scRNA_seq_pipeline.sh`
