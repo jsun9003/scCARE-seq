@@ -37,15 +37,22 @@ Three-dimensional (3D) chromatin structure plays a crucial role in development a
 
 ### Prepare for HiC-Pro
 `cd ../`
+
 `mkdir data`
+
 `cd data`
+
 #e.g. serum_H_132
 `mkdir serum_H_132`
+
 `ln -s ../../QualityControl/Clean/ValReads/serum_H_132.1.fq.gz serum_H_132/serum_H_132_R1.fastq.gz`
+
 `ln -s ../../QualityControl/Clean/ValReads/serum_H_132.2.fq.gz serum_H_132/serum_H_132_R2.fastq.gz`
 
 `cd ../`
+
 `mkdir HiC-Pro_mm10`
+
 `cd HiC-Pro_mm10`
 
 `HiC-Pro -i ../data/ -o HiC-Pro-Test -c /data1/jlqu/mboi-mm10-config-scCARE-seq.txt 1>Hi-C-pro-test.txt 2>Hi-C-pro-test.log`
