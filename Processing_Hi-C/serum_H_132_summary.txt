@@ -1,0 +1,2 @@
+SampleName	TotalPairs	ReportedPairs	RepotedRatio	ValidInteractionPairs	FF	RR	RF	FR	LigationEfficiency	ValidRMDUP	PCRDuplicationRatio	LongIntraInteraction	LongIntraRatio	cis_interaction	InterInteraction	InterRatio	LibraryEfficiency
+serum_H_132	17599272	13246822	75.27%	2154050	467219	477615	475813	733403	16.26%	675887	68.62%	346907	51.33%	559566	116321	17.21%	3.84%
