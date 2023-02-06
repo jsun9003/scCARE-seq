@@ -15,15 +15,15 @@ Three-dimensional (3D) chromatin structure plays a crucial role in development a
    samtools version >= 1.3.1 is required.
 - Trim_galore, https://www.bioinformatics.babraham.ac.uk/projects/trim_galore/
 - STAR, https://github.com/alexdobin/STAR
-- Higashi, https://github.com/ma-compbio/Higashi
 - sci-CAR, https://github.com/JunyueC/sci-CAR_analysis
-- DeepLoop https://github.com/JinLabBioinfo/DeepLoop
-- HiC-Pro https://github.com/nservant/HiC-Pro
-
+- HiC-Pro, https://github.com/nservant/HiC-Pro
+- Higashi, https://github.com/ma-compbio/Higashi
+- DeepLoop, https://github.com/JinLabBioinfo/DeepLoop
 - Optional: FastQC, https://www.bioinformatics.babraham.ac.uk/projects/fastqc/
 
 # Additional Tutorial
 - [Higashi-analysis for HiC (Zhang et al.Nature biotechnology, 2022)](https://github.com/ma-compbio/Higashi)
+- [Loop-analysis for HiC (Zhang et al.Nature Genetics, 2022)](https://github.com/JinLabBioinfo/DeepLoop)
 - [sci-CAR_analysis for RNA (Cao et al.Science, 2018)](https://github.com/JunyueC/sci-CAR_analysis)
 
 # Analysis of scCARE-seq datasets include the following steps:
