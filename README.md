@@ -28,17 +28,12 @@ Three-dimensional (3D) chromatin structure plays a crucial role in development a
 ## 1. Split scCARE-seq data into HiC partion and RNA partion
 
 ## 2. Single cell HiC analysis for the HiC partion
-##############################################################################################################
 ### TrimGalore
-##############################################################################################################
 mkdir QualityControl
 cd QualityControl
 trim_galore.py -i ../rawdata/*.gz 1>Hi-C.txt 2>Hi-C.log -o Clean &
 
-
-##############################################################################################################
-#Prepare for HiC-Pro
-##############################################################################################################
+### Prepare for HiC-Pro
 cd ../
 mkdir data
 cd data
@@ -47,12 +42,7 @@ mkdir serum_H_132
 ln -s ../../QualityControl/Clean/ValReads/serum_H_132.1.fq.gz serum_H_132/serum_H_132_R1.fastq.gz
 ln -s ../../QualityControl/Clean/ValReads/serum_H_132.2.fq.gz serum_H_132/serum_H_132_R2.fastq.gz
 
-
-##############################################################################################################
-#HiC-Pro MboI
-##############################################################################################################
 cd ../
-#mm10
 mkdir HiC-Pro_mm10
 cd HiC-Pro_mm10
 
