@@ -65,7 +65,7 @@ Three-dimensional (3D) chromatin structure plays a crucial role in development a
 
 ## 2. Single cell RNA-seq analysis for the RNA partion
 
-`sh ./Processing_RNA/record_scRNA_seq_pipeline.sh`
+`sh Processing_RNA/record_scRNA_seq_pipeline.sh`
 
 # Cite
 
