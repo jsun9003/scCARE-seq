@@ -75,8 +75,6 @@ Cite our paper by
 }
 ```
 
-![figs/graphAbstract.jpg](https://github.com/jsun9003/scCARE-seq/blob/main/figs/graphAbstract.jpg)
-
 
 
 # Contact
