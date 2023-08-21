@@ -73,10 +73,10 @@ Three-dimensional (3D) chromatin structure plays a crucial role in development a
 Cite our paper by
 
 ```
-@article {Qu2022multiscale,
+@article {Qu2023multiscale,
 	author = {Jiale Qu and Jun Sun},
 	title = {Simultaneous profiling of chromatin architecture and transcription in single cells},
-	year={2022},
+	year={2023},
 	publisher = {Nature Publishing Group},
 	journal = {Nature Structural & Molecular Biology}
 }
