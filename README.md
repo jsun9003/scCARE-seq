@@ -78,7 +78,7 @@ Cite our paper by
 	title = {Simultaneous profiling of chromatin architecture and transcription in single cells},
 	year={2022},
 	publisher = {Nature Publishing Group},
-	journal = {Under Submited}
+	journal = {Nature Structural & Molecular Biology}
 }
 ```
 
